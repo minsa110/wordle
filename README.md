@@ -41,3 +41,7 @@ Press '.' on your keyboard to try it out!
 - Install packages from PyPI with micropip
 - Load publicly available csv / json file
 - Spin up [Codespaces](https://github.com/features/codespaces) for full VS Code features with GitHub compute backing it
+
+## Favorite VS Code themes for notebooks
+- Dark: [One Monokai Theme - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai)
+- Light: [Snazzy Light - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=loilo.snazzy-light)
