@@ -1,5 +1,5 @@
 # Wordle
-Basic EDA for a daily sample of Wordle results [tweets](https://www.kaggle.com/datasets/benhamner/wordle-tweets) from Wordle #210 (2022-01-16) to Wordle #303 (2022-04-19).
+Basic EDA for a daily sample of Wordle results [tweets](https://www.kaggle.com/datasets/benhamner/wordle-tweets). Original analysis from  Wordle #210 (2022-01-16) to Wordle #303 (2022-04-19).
 
 ## Try it out in VS Code - [Jupyter extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 Some of the Jupyter notebooks & Python productivity tools in VS Code include:
